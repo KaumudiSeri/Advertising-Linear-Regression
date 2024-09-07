@@ -85,4 +85,4 @@ The dataset provides the current advertising spends and the corresponding sales,
 
 ## Conclusion
 <br>
-This project provides a framework for predicting future sales based on advertising data. By analyzing the relationship between advertising spend across various mediums and car sales, businesses can optimize their marketing strategies to drive better results. The regression model built can further be enhanced with hyperparameter tuning, more complex models, or advanced feature engineering.
+This project provides a framework for predicting future sales based on advertising data. By analyzing the relationship between advertising spend across various mediums and car sales, businesses can optimize their marketing strategies to drive better results.
