@@ -66,7 +66,7 @@ The dataset provides the current advertising spends and the corresponding sales,
 <br>
 
 ## Tools & Technologies
-<br>
+
 * Programming Language: Python 3.x
 * Environment: Jupyter Notebook or any other Python-based IDE
 * Libraries:
