@@ -10,6 +10,7 @@ This project aims to develop a machine learning regression model that predicts f
 <br>
 In the automotive industry, sales are directly influenced by advertising efforts across multiple mediums like TV, radio, and newspapers. The goal of this project is to:
 
+
 * Predict future car sales using current advertising expenditures.
 * Build a regression model to forecast sales based on advertising data.
 * Evaluate the model's performance using error metrics such as Mean Squared Error (MSE) and Mean Absolute Error (MAE).
@@ -18,6 +19,7 @@ In the automotive industry, sales are directly influenced by advertising efforts
 ## Dataset
 <br>
 The dataset used for this project is advertising.csv, which contains the following columns:
+
 
 * TV: Amount spent on TV advertising.
 * Radio: Amount spent on radio advertising.
