@@ -31,10 +31,8 @@ The dataset provides the current advertising spends and the corresponding sales,
 
 ## Approach
 <br>
-
-### Data Loading:
-<br> 
-* Download the advertising dataset and load it into the Python environment (e.g., Jupyter Notebook).
+* Data Loading:
+     * Download the advertising dataset and load it into the Python environment (e.g., Jupyter Notebook).
 
 * Data Exploration:
      * Store the dataset as a Pandas DataFrame.
